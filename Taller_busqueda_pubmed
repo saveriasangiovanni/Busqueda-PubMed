@@ -1,5 +1,6 @@
 # Taller búsqueda RSL de Grace y colaboradores 
 
-A continuación se deja el código de búsqueda de
-pubmed tomado del artículo de Grace y colaboradores
-Probado para la búsqueda de literatura
+1. "tuberculosis, pulmonary"[MeSH Terms]
+2. "pulmonary"[Title/Abstract] AND ("tuberculosis"[Title/Abstract] OR "TB"[Title/Abstract])
+3. #2 OR #1
+4. ((antitubercular agents[MeSH Terms]) OR (diarylquinolines[MeSH Terms])) OR (antibiotics, Antitubercular[MeSH Terms])
