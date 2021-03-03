@@ -1,6 +1,7 @@
 # Taller búsqueda RSL de Grace y colaboradores 
 
-1. "tuberculosis, pulmonary"[MeSH Terms]
-2. "pulmonary"[Title/Abstract] AND ("tuberculosis"[Title/Abstract] OR "TB"[Title/Abstract])
-3. #2 OR #1
-4. ((antitubercular agents[MeSH Terms]) OR (diarylquinolines[MeSH Terms])) OR (antibiotics, Antitubercular[MeSH Terms])
+21. "tuberculosis, pulmonary"[MeSH Terms]
+22. "pulmonary"[Title/Abstract] AND ("tuberculosis"[Title/Abstract] OR "TB"[Title/Abstract])
+23. #2 OR #1
+24. ((antitubercular agents[MeSH Terms]) OR (diarylquinolines[MeSH Terms])) OR (antibiotics, Antitubercular[MeSH Terms])
+asdgadgdhfdahfd
