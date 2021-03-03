@@ -1,7 +1,24 @@
 # Taller búsqueda RSL de Grace y colaboradores 
 
+Saveria 
+
 1. "tuberculosis, pulmonary"[MeSH Terms]
-2. "pulmonary"[Title/Abstract] AND ("tuberculosis"[Title/Abstract] OR "TB"[Title/Abstract])
-3. #2 OR #1
-4. ((antitubercular agents[MeSH Terms]) OR (diarylquinolines[MeSH Terms])) OR (antibiotics, Antitubercular[MeSH Terms])
-asdgadgdhfdahfd
+2. pulmonary[Title/Abstract] AND (tuberculosis[Title/Abstract] OR TB)[Title/Abstract] 
+3.  (#2) OR #1 
+4. "Antitubercular Agents"[Mesh] OR "Diarylquinolines"[Mesh] OR "Antibiotics, Antitubercular"[Mesh] 
+5. diarylquinolin*[Title/Abstract] OR TMC 207‐BDQ[Title/Abstract] OR nitroimidazol*[Title/Abstract] OR PA 824‐ pretomanid[Title/Abstract] OR oxazolidinon*[Title/Abstract] OR LZD[Title/Abstract] OR ethylenediamin*[Title/Abstract] OR SQ 109[Title/Abstract]
+6. moxifloxacin[Title/Abstract] OR levofloxacin[Title/Abstract] OR gatifloxacin[Title/Abstract] OR rifamycins[Title/Abstract] OR rifabutin[Title/Abstract] OR rifapentine[Title/Abstract] OR bedaquiline[Title/Abstract] OR delamanid[Title/Abstract] OR pretomanid[Title/Abstract] 
+7. ((#6) OR #5) OR #4
+8.  "Drug Administration Schedule"[Mesh] 
+9. "Medication Therapy Management"[Mesh]
+10. "Time Factors"[Mesh]
+11. regimen*[Title/Abstract] OR short[Title/Abstract] OR shortened[Title/Abstract] OR months[Title/Abstract] OR dose[Title/Abstract] OR dosing[Title/Abstract] OR schedule*[Title/Abstract] 
+12. (((#11) OR #10) OR #9) OR #8
+13.  (#12) AND #7 AND #3
+14.  "Randomized Controlled Trial"[Publication Type] OR "Controlled Clinical Trial"[Publication Type]
+15. randomized[Title/Abstract] OR placebo[Title/Abstract] OR randomly[Title/Abstract] OR trial[Title/Abstract] OR groups[Title/Abstract]
+16. drug therapy [sh]
+17.  ((#14) OR #15) OR #16 
+18.  (#17) AND #13
+19. Filtre hasta año 2019 que fue el año de publicación 
+
